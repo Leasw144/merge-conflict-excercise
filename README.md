@@ -10,3 +10,4 @@ Will never let you go this time (ooh)
 I said, ooh, I'm blinded by the lights
 No, I can't sleep until I feel your touch
 Hey, hey, hey
+
