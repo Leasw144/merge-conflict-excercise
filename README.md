@@ -1,6 +1,8 @@
 # merge-conflict-excercise
 
+
 I look around and Sin City's cold and moist (oh)
+
 No one's around to judge me (oh)
 I can't see clearly when you're gone
 
@@ -10,6 +12,7 @@ Will never let you go this time (ooh)
 I said, ooh, I'm blinded by the lights
 No, I can't sleep until I feel your touch
 Hey, hey, hey
+
 
 I'm running out of time
 'Cause I can see the sun light up the sky
